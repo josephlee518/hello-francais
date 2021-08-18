@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>francais on Hello Francais!</title>
+    <link>http://example.org/tags/francais/</link>
+    <description>Recent content in francais on Hello Francais!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Aug 2021 21:56:10 +0900</lastBuildDate><atom:link href="http://example.org/tags/francais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World Francais</title>
+      <link>http://example.org/blog/hello-world-francais/</link>
+      <pubDate>Wed, 18 Aug 2021 21:56:10 +0900</pubDate>
+      
+      <guid>http://example.org/blog/hello-world-francais/</guid>
+      <description>This is a page about »Hello World Francais«.</description>
+    </item>
+    
+  </channel>
+</rss>
